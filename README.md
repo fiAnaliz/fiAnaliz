@@ -94,7 +94,7 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
 
 ## Lisans
 
-MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için "LİSANS" bölümüne bakın.
+MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için "LICENSE" bölümüne bakın.
 
 ## İletişim
 
