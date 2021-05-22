@@ -86,8 +86,11 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
 
 ### Telegram
 <p align="center">
+
 `ÇOK YAKINDA EKLENECEKTİR!`
+
 </p>
+
 ### Discord
 
 <p align="center">
