@@ -37,12 +37,8 @@
         <li><a href="#discord">Discord</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#lisans">Lisans</a></li>
     <li><a href="#iletişim">İletişim</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -96,39 +92,15 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
   </a>
 </p>
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
 ## Lisans
 
-Distributed under the MIT License. See `LICENSE` for more information.
+MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için "LİSANS" bölümüne bakın.
 
-
-
-<!-- CONTACT -->
 ## İletişim
 
 İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [LinkedIn](https://linkedin.com/in/ibrahimenesduran)\
 Mesut Melih Akpınar - Boğaziçi Üniversitesi - [LinkedIn](https://www.linkedin.com/in/melihakpinar)  
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
