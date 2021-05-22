@@ -79,7 +79,11 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
 
 ### Telegram
 
-`Çok yakında eklenecektir!`
+<p align="center">
+  <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
+    <img src="images/gifs/Telegram.gif" alt="Telegram Kullanım" width="506" height="195">
+  </a>
+</p>
 
 ### Discord
 
