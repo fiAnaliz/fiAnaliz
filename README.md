@@ -22,7 +22,7 @@
   <summary><h2 style="display: inline-block">İçindekiler</h2></summary>
   <ol>
     <li>
-      <a href="#projemiz-hakkında">Projemiz Hakkında</a>,
+      <a href="#fiAnaliz-hakkında">fiAnaliz Hakkında</a>,
       <ul>
         <li><a href="#veri-politikamız">Veri Politikamız</a></li>
       </ul>
@@ -41,16 +41,16 @@
 </details>
 
 
-## Projemiz Hakkında
+## fiAnaliz Hakkında
 
-Projemizin amacı; birden fazla platform üzerinden senkron bir şekilde çalışabilen, insanların ücretsiz bir şekilde finansal piyasalardan bilgi edinmesini sağlamaktır. Projemizin botu fiAnaliz, Türkiye'de en fazla kullanıcaya sahip 3 büyük mesajlaşma ve haberleşme platformu üzerinden kişi kısıtlaması olmaksızın çalışabilmektedir.
+fiAnaliz, birden fazla platform üzerinden senkron bir şekilde çalışabilir ve insanların ücretsiz bir şekilde finansal piyasalar hakkında bilgi edinmesini sağlar. fiAnaliz, Türkiye'de en fazla kullanıcıya sahip üç mesajlaşma ve haberleşme platformu üzerinden kişi kısıtlaması olmaksızın çalışabilmektedir.
 
 ### Veri Politikamız
 
 fiAnaliz ekibi olarak kişisel gizlilik haklarınıza saygı duyuyor ve botlarımızı kullandığınız süre zarfında bunu sağlamak için çaba sarf ediyoruz. Kişisel bilgilerinizin güvenliği ile ilgili açıklamalar aşağıda açıklanmış ve bilginize sunulmuştur.
 
 Mesajlar:
-Mesajlarınız, gizliliğinize verdiğimiz önem sebebiyle kayıt altına alınmamakta ve üçüncü taraflarla paylaşılmamaktadır. Sadece ünlem işaretiyle (!) başlayan mesajlarınız veri tabanlarımızda AES 256 bit şifreleme ile güvenlik ve kullanım istatistikleri amacıyla saklanmaktadır.
+Mesajlarınız, gizliliğinize verdiğimiz önem sebebiyle kayıt altına alınmamakta ve üçüncü taraflarla paylaşılmamaktadır. Sadece ünlem işaretiyle (!) başlayan mesajlarınız veri tabanlarımızda AES 256 bit şifreleme ile arıza tespiti ve kullanım istatistikleri amacıyla saklanmaktadır.
 
 Numaralarınız:
 Numaralarınız cüzdan ve alarm sistemlerimizin kullanımı için veri tabanlarımızda AES 256 bit şifreleme ile saklanmaktadır. Veri tabanlarımız Türkiye sınırları içerisinde olup verileriniz yurt dışına çıkmamaktadır.
