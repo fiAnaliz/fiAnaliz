@@ -71,6 +71,10 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 
 Özel mesaj ile veya botu eklediğiniz gruba !yardım yazarak kullanabileceğiniz komutları öğrenebilirsiniz.
 
+<p align="center">
+    <img src="images/yardim.png" alt="Yardım">
+</p>
+
 ### Whatsapp
 
 <p align="center">
