@@ -57,10 +57,6 @@ Numaralarınız cüzdan ve alarm sistemlerimizin kullanımı için veri tabanlar
 
 fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 
-<p align="center">
-<a href="https://twitter.com/fiAnaliz?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @fiAnaliz</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
 ## Kullanıma Başlarken
 
 fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle kullanmaya başlayabilirsiniz.
