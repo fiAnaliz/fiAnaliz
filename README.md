@@ -110,19 +110,17 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## Lisans
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+## İletişim
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [ibrahimenesduran](https://linkedin.com/in/ibrahimenes.duran)  - ibrahimenesduran@hotmail.com
+Mesut Melih Akpınar - Boğaziçi Üniversitesi - [melihakpinar](https://www.linkedin.com/in/melihakpinar)  - 
 
 
 <!-- ACKNOWLEDGEMENTS -->
