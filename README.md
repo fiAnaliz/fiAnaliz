@@ -57,6 +57,9 @@ Numaralarınız cüzdan ve alarm sistemlerimizin kullanımı için veri tabanlar
 
 fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 
+<p align="center">
+<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" href="https://twitter.com/fiAnaliz?ref_src=twsrc%5Etfw">Tweets by fiAnaliz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ## Kullanıma Başlarken
 
@@ -107,7 +110,3 @@ MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için "LICENSE" böl
 
 İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [LinkedIn](https://linkedin.com/in/ibrahimenesduran)\
 Mesut Melih Akpınar - Boğaziçi Üniversitesi - [LinkedIn](https://www.linkedin.com/in/melihakpinar)  
-
-<p align="center">
-<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" href="https://twitter.com/fiAnaliz?ref_src=twsrc%5Etfw">Tweets by fiAnaliz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
