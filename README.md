@@ -79,7 +79,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
-    <img src="images/gifs/Whatsapp.gif" alt="Whatsapp Kullanım">
+    <img src="images/gifs/Whatsapp.gif" alt="Whatsapp Kullanım" width="500">
   </a>
 </p>
 
@@ -87,7 +87,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
-    <img src="images/gifs/Telegram.gif" alt="Telegram Kullanım">
+    <img src="images/gifs/Telegram.gif" alt="Telegram Kullanım" width="500">
   </a>
 </p>
 
@@ -95,7 +95,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">
-    <img src="images/gifs/Discord.gif" alt="Discord Kullanım">
+    <img src="images/gifs/Discord.gif" alt="Discord Kullanım" width="500">
   </a>
 </p>
 
