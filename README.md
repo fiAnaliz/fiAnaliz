@@ -30,7 +30,7 @@
       </ul>
     </li>
     <li>
-      <a href="#başlarken">Başlarken</a>
+      <a href="#kullanıma-başlarken">Kullanıma Başlarken</a>
       <ul>
         <li><a href="#whatsapp">Whatsapp</a></li>
         <li><a href="#telegram">Telegram</a></li>
@@ -65,7 +65,7 @@ fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 
 
 <!-- GETTING STARTED -->
-## Başlarken
+## Kullanıma Başlarken
 
 fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle kullanmaya başlayabilirsiniz.
 <p align="center">
