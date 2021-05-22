@@ -67,7 +67,7 @@ fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 <!-- GETTING STARTED -->
 ## Başlarken
 
-fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle başlayabilirsiniz.
+fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle kullanmaya başlayabilirsiniz.
 <p align="center">
     <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">Whatsapp</a>
     ·
@@ -84,25 +84,11 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
 
 ### Discord
 
+<p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">
     <img src="images/gifs/Discord.gif" alt="Discord Kullanım" width="450" height="235">
   </a>
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
+</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
