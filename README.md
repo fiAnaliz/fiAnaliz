@@ -60,7 +60,7 @@ fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 
 ## Kullanıma Başlarken
 
-fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle kullanmaya başlayabilirsiniz.
+fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle kullanmaya başlayabilirsiniz.
 <p align="center">
     <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">Whatsapp</a>
     ·
@@ -68,6 +68,8 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
     ·
     <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">Discord</a>
 </p>
+
+Özel mesaj ile veya botu eklediğiniz gruba !yardım yazarak kullanabileceğiniz komutları öğrenebilirsiniz.
 
 ### Whatsapp
 
