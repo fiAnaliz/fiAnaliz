@@ -119,8 +119,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## İletişim
 
-İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [ibrahimenesduran](https://linkedin.com/in/ibrahimenesduran)  - ibrahimenesduran@hotmail.com\
-Mesut Melih Akpınar - Boğaziçi Üniversitesi - [melihakpinar](https://www.linkedin.com/in/melihakpinar)  - 
+İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [LinkedIn](https://linkedin.com/in/ibrahimenesduran)\
+Mesut Melih Akpınar - Boğaziçi Üniversitesi - [LinkedIn](https://www.linkedin.com/in/melihakpinar)  
 
 
 <!-- ACKNOWLEDGEMENTS -->
