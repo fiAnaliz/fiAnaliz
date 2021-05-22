@@ -8,7 +8,7 @@
 
   <p align="center">
     Türkiye'nin ücretsiz borsa - kripto botu. Şimdi Whatsapp'ta, Telegram'da ve Discord'ta!
-<br />
+  <br />
     <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">Whatsapp</a>
     ·
     <a href="https://t.me/fiAnalizBot">Telegram</a>
@@ -18,8 +18,6 @@
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">İçindekiler</h2></summary>
   <ol>
@@ -60,7 +58,6 @@ Numaralarınız cüzdan ve alarm sistemlerimizin kullanımı için veri tabanlar
 fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 
 
-<!-- GETTING STARTED -->
 ## Kullanıma Başlarken
 
 fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle kullanmaya başlayabilirsiniz.
