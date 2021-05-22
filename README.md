@@ -32,8 +32,9 @@
     <li>
       <a href="#başlarken">Başlarken</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#whatsapp">Whatsapp</a></li>
+        <li><a href="#telegram">Telegram</a></li>
+        <li><a href="#discord">Discord</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -74,25 +75,14 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
     ·
     <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">Discord</a>
 </p>
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Whatsapp
 
-### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+### Telegram
 
+
+### Discord
 
 
 <!-- USAGE EXAMPLES -->
