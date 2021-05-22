@@ -9,11 +9,11 @@
   <p align="center">
     Türkiye'nin ücretsiz borsa - kripto botu. Şimdi Whatsapp'ta, Telegram'da ve Discord'ta!
     <br />
-    <a href="https://github.com/github_username/repo_name">Whatsapp</a>
+    <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">Whatsapp</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Telegram</a>
+    <a href="https://t.me/fiAnalizBot">Telegram</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Discord</a>
+    <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">Discord</a>
   </p>
 </p>
 
@@ -21,12 +21,12 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">İçindekiler</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Projemiz Hakkında</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Kullanılan Sistemler</a></li>
       </ul>
     </li>
     <li>
