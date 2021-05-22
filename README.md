@@ -38,7 +38,7 @@
       </ul>
     </li>
     <li><a href="#lisans">Lisans</a></li>
-    <li><a href="#iletişim">İletişim</a></li>
+    <li><a href="#İletişim">İletişim</a></li>
   </ol>
 </details>
 
