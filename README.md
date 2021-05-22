@@ -119,7 +119,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## İletişim
 
-İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [ibrahimenesduran](https://linkedin.com/in/ibrahimenes.duran)  - ibrahimenesduran@hotmail.com
+İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [ibrahimenesduran](https://linkedin.com/in/ibrahimenesduran)  - ibrahimenesduran@hotmail.com\
 Mesut Melih Akpınar - Boğaziçi Üniversitesi - [melihakpinar](https://www.linkedin.com/in/melihakpinar)  - 
 
 
