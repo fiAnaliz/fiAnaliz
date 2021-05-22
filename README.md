@@ -85,7 +85,7 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
 ### Discord
 
   <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">
-    <img src="images/gifs/Discord.png" alt="Discord Kullanım" width="900" height="470">
+    <img src="images/gifs/Discord.gif" alt="Discord Kullanım" width="900" height="470">
   </a>
 
 <!-- USAGE EXAMPLES -->
