@@ -24,7 +24,7 @@
   <summary><h2 style="display: inline-block">İçindekiler</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">Projemiz Hakkında</a>
+      <a href="#projemiz-hakkında">Projemiz Hakkında</a>
       <ul>
         <li><a href="#built-with">Kullanılan Sistemler</a></li>
       </ul>
@@ -48,7 +48,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Projemiz Hakkında
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
