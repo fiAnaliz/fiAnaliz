@@ -42,7 +42,8 @@
 
 
 ## fiAnaliz Hakkında
-Twitter'da takip et: <a href="https://twitter.com/intent/user?screen_name=fiAnaliz"><img src="images/twitter.png" alt="Twitter: @fiAnaliz"></a>
+<a href="https://twitter.com/intent/user?screen_name=fiAnaliz">Twitter'da takip et <img src="images/twitter.png" alt="Twitter: @fiAnaliz"></a>
+
 fiAnaliz, birden fazla platform üzerinden senkron bir şekilde çalışabilir ve insanların ücretsiz bir şekilde finansal piyasalar hakkında bilgi edinmesini sağlar. fiAnaliz, Türkiye'de en fazla kullanıcıya sahip üç mesajlaşma ve haberleşme platformu üzerinden kişi kısıtlaması olmaksızın çalışabilmektedir.
 
 ### Veri Politikamız
