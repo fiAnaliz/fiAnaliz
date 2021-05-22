@@ -25,9 +25,6 @@
   <ol>
     <li>
       <a href="#projemiz-hakkında">Projemiz Hakkında</a>
-      <ul>
-        <li><a href="#sistem-yapısı">Sistem Yapımız</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -50,13 +47,6 @@
 
 Projemizin amacı; birden fazla platform üzerinden senkron bir şekilde çalışabilen, insanların ücretsiz bir şekilde finansal piyasalardan bilgi edinmesini sağlamaktır. Projemizin botu fiAnaliz, Türkiye'de en fazla kullanıcaya sahip 3 büyük mesajlaşma ve haberleşme platformu üzerinden kişi kısıtlaması olmaksızın çalışabilmektedir.
 
-
-
-### Kullanılan Sistemler
-
-* []()
-* []()
-* []()
 
 
 
