@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/fiAnaliz/fiAnaliz">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -84,6 +84,9 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
 
 ### Discord
 
+  <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">
+    <img src="images/gifs/Discord.png" alt="Discord Kullanım" width="900" height="470">
+  </a>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
