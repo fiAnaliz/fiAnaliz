@@ -79,7 +79,7 @@ fiAnalizi hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet l
 ### Whatsapp
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
-    <img src="images/gifs/Whatsapp.gif" alt="Whatsapp Kullanım" width="450" height="235">
+    <img src="images/gifs/Whatsapp.gif" alt="Whatsapp Kullanım" width="570" height="180">
   </a>
 </p>
 
