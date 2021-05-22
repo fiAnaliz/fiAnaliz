@@ -87,7 +87,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 ### Telegram
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
+  <a href="https://t.me/fiAnalizBot">
     <img src="images/gifs/Telegram.gif" alt="Telegram Kullanım" width="500">
   </a>
 </p>
