@@ -72,14 +72,14 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 Özel mesaj ile veya botu eklediğiniz gruba !yardım yazarak kullanabileceğiniz komutları öğrenebilirsiniz.
 
 <p align="center">
-    <img src="images/yardim.png" alt="Yardım" width="485" height="262">
+    <img src="images/yardim.png" alt="Yardım">
 </p>
 
 ### Whatsapp
 
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
-    <img src="images/gifs/Whatsapp.gif" alt="Whatsapp Kullanım" width="570" height="180">
+    <img src="images/gifs/Whatsapp.gif" alt="Whatsapp Kullanım">
   </a>
 </p>
 
@@ -87,7 +87,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
-    <img src="images/gifs/Telegram.gif" alt="Telegram Kullanım" width="506" height="195">
+    <img src="images/gifs/Telegram.gif" alt="Telegram Kullanım">
   </a>
 </p>
 
@@ -95,7 +95,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">
-    <img src="images/gifs/Discord.gif" alt="Discord Kullanım" width="450" height="235">
+    <img src="images/gifs/Discord.gif" alt="Discord Kullanım">
   </a>
 </p>
 
