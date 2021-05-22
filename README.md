@@ -26,7 +26,7 @@
     <li>
       <a href="#projemiz-hakkında">Projemiz Hakkında</a>
       <ul>
-        <li><a href="#built-with">Kullanılan Sistemler</a></li>
+        <li><a href="#sistem-yapısı">Sistem Yapımız</a></li>
       </ul>
     </li>
     <li>
@@ -46,10 +46,9 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## Projemiz Hakkında
 
+Projemizin amacı; birden fazla platform üzerinden senkron bir şekilde çalışabilen, insanların ücretsiz bir şekilde finansal piyasalardan bilgi edinmesini sağlamaktır. Projemizin botu fiAnaliz, Türkiye'de en fazla kullanıcaya sahip 3 büyük mesajlaşma ve haberleşme platformu üzerinden kişi kısıtlaması olmaksızın çalışabilmektedir.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
@@ -57,7 +56,7 @@ Here's a blank template to get started:
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
-### Built With
+### Kullanılan Sistemler
 
 * []()
 * []()
