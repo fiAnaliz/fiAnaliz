@@ -16,7 +16,9 @@
     <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">Discord</a>
   </p>
 </p>
-
+<p align="center">
+<a href="https://twitter.com/intent/user?screen_name=fiAnaliz">Twitter'da takip et <img src="images/twitter.png" alt="Twitter: @fiAnaliz"></a>
+</p>
 
 <details open="open">
   <summary><h2 style="display: inline-block">İçindekiler</h2></summary>
@@ -42,7 +44,6 @@
 
 
 ## fiAnaliz Hakkında
-<a href="https://twitter.com/intent/user?screen_name=fiAnaliz">Twitter'da takip et <img src="images/twitter.png" alt="Twitter: @fiAnaliz"></a>
 
 fiAnaliz, birden fazla platform üzerinden senkron bir şekilde çalışabilir ve insanların ücretsiz bir şekilde finansal piyasalar hakkında bilgi edinmesini sağlar. fiAnaliz, Türkiye'de en fazla kullanıcıya sahip üç mesajlaşma ve haberleşme platformu üzerinden kişi kısıtlaması olmaksızın çalışabilmektedir.
 
