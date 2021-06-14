@@ -104,7 +104,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
 ## Sistem Diyagramı
 
 <p align="center">
-  <img src="images/system-diagram.png" alt="Sistem Diyagramı" width="500">
+  <img src="images/system-diagram.png" alt="Sistem Diyagramı" width="1000">
 </p>
 
 ## Lisans
