@@ -37,6 +37,7 @@
         <li><a href="#discord">Discord</a></li>
       </ul>
     </li>
+    <li><a href="#sistem-diyagramı">Sistem Diyagramı</a></li>
     <li><a href="#lisans">Lisans</a></li>
     <li><a href="#İletişim">İletişim</a></li>
   </ol>
@@ -98,6 +99,12 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
   <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">
     <img src="images/gifs/Discord.gif" alt="Discord Kullanım" width="500">
   </a>
+</p>
+
+## Sistem Diyagramı
+
+<p align="center">
+  <img src="images/system-diagram.png" alt="Sistem Diyagramı" width="500">
 </p>
 
 ## Lisans
