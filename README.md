@@ -24,9 +24,9 @@
   <summary><h2 style="display: inline-block">İçindekiler</h2></summary>
   <ol>
     <li>
-      <a href="#About">About</a>,
+      <a href="#About">About</a>
       <ul>
-        <li><a href="#veri-politikamız">Veri Politikamız</a></li>
+        <li><a href="#data-policy">Data Policy</a></li>
       </ul>
     </li>
     <li>
@@ -48,7 +48,7 @@
 
 fiAnaliz can work synchronously across multiple platforms and allows people to learn about financial markets for free. fiAnaliz can operate on the three messaging and communication platforms with the highest number of users in Turkey.
 
-### Veri Politikamız
+### Data Policy
 
 fiAnaliz ekibi olarak kişisel gizlilik haklarınıza saygı duyuyor ve botlarımızı kullandığınız süre zarfında bunu sağlamak için çaba sarf ediyoruz. Kişisel bilgilerinizin güvenliği ile ilgili açıklamalar aşağıda açıklanmış ve bilginize sunulmuştur.
 
