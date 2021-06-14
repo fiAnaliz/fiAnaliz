@@ -24,22 +24,22 @@
   <summary><h2 style="display: inline-block">İçindekiler</h2></summary>
   <ol>
     <li>
-      <a href="#About">About</a>
+      <a href="#about">About</a>
       <ul>
         <li><a href="#data-policy">Data Policy</a></li>
       </ul>
     </li>
     <li>
-      <a href="#kullanıma-başlarken">Kullanıma Başlarken</a>
+      <a href="#usage">Usage</a>
       <ul>
         <li><a href="#whatsapp">Whatsapp</a></li>
         <li><a href="#telegram">Telegram</a></li>
         <li><a href="#discord">Discord</a></li>
       </ul>
     </li>
-    <li><a href="#sistem-diyagramı">Sistem Diyagramı</a></li>
-    <li><a href="#lisans">Lisans</a></li>
-    <li><a href="#İletişim">İletişim</a></li>
+    <li><a href="#system-diagram">System Diagram</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -60,7 +60,7 @@ Numaralarınız cüzdan ve alarm sistemlerimizin kullanımı için veri tabanlar
 
 fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 
-## Kullanıma Başlarken
+## Usage
 
 fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle kullanmaya başlayabilirsiniz.
 <p align="center">
@@ -101,17 +101,17 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
   </a>
 </p>
 
-## Sistem Diyagramı
+## System Diagram
 
 <p align="center">
   <img src="images/system-diagram.png" alt="Sistem Diyagramı" width="1000">
 </p>
 
-## Lisans
+## License
 
 MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için "LICENSE" bölümüne bakın.
 
-## İletişim
+## Contact
 
 İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [LinkedIn](https://linkedin.com/in/ibrahimenesduran)\
 Mesut Melih Akpınar - Boğaziçi Üniversitesi - [LinkedIn](https://www.linkedin.com/in/melihakpinar)  
