@@ -44,9 +44,9 @@
 </details>
 
 
-## fiAnaliz Hakkında
+## About
 
-fiAnaliz, birden fazla platform üzerinden senkron bir şekilde çalışabilir ve insanların ücretsiz bir şekilde finansal piyasalar hakkında bilgi edinmesini sağlar. fiAnaliz, Türkiye'de en fazla kullanıcıya sahip üç mesajlaşma ve haberleşme platformu üzerinden kişi kısıtlaması olmaksızın çalışabilmektedir.
+fiAnaliz can work synchronously across multiple platforms and allows people to learn about financial markets for free. fiAnaliz can operate on the three messaging and communication platforms with the highest number of users in Turkey.
 
 ### Veri Politikamız
 
