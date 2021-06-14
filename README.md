@@ -24,7 +24,7 @@
   <summary><h2 style="display: inline-block">İçindekiler</h2></summary>
   <ol>
     <li>
-      <a href="#fiAnaliz-hakkında">fiAnaliz Hakkında</a>,
+      <a href="#About">About</a>,
       <ul>
         <li><a href="#veri-politikamız">Veri Politikamız</a></li>
       </ul>
