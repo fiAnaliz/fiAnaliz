@@ -40,7 +40,7 @@
           </ul>
         <li><a href="#data-policy">Client</a></li>
             <ul>
-            <li><a href="#prerequisities">Prerequisities</a></li>
+            <li><a href="#prerequisities-1">Prerequisities</a></li>
             <li><a href="#running-the-client">Running the client</a></li>
           </ul>
       </ul>
