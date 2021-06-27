@@ -63,12 +63,12 @@ fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 # Kurulum
 ## Sunucu Kurulumu
 ### Öngereklilikler:
-*python3
-*Flask
-*PyMySQL
-*requests
-*Pandas
-*mplfinance
+* python3
+* Flask
+* PyMySQL
+* requests
+* Pandas
+* mplfinance
 
 ### Veritabanı Oluşturma
 ```
@@ -88,12 +88,12 @@ python3 backend_api_service.py
 
 ## Client Kurulumu
 ### Öngereklilikler:
-*Node.js
-*Moment.js
-*Express
-*Discord.js (Discord için)
-*node-telegram-bot-api (Telegram için)
-*wa-automate-nodejs (Whatsapp için)
+* Node.js
+* Moment.js
+* Express
+* Discord.js (Discord için)
+* node-telegram-bot-api (Telegram için)
+* wa-automate-nodejs (Whatsapp için)
 
 ### Client'i Çalıştırma
 ```
