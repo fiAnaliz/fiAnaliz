@@ -71,9 +71,11 @@ Pandas
 mplfinance
 
 ### Veritabanı Oluşturma
+`
 git clone https://github.com/fiAnaliz/fiAnaliz.git
 cd fiAnaliz/src
 mysql -h server_adi -u kullanici_adi -p sifre fiAnaliz < mysql/configure_database.sql
+`
 
 ### Sunucuyu Çalıştırma
 Alarm fonksiyonunu kullanmak için alert_module ve backend_api_service'in çalışması gereklidir, grafik çizme ve cüzdan fonksiyonları da backend_api_service'e bağlıdır.
