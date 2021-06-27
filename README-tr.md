@@ -86,7 +86,21 @@ python3 alert_module.py
 python3 backend_api_service.py
 ```
 
+## Client Kurulumu
+### Öngereklilikler:
+Node.js
+Moment.js
+Express
+Discord.js (Discord için)
+node-telegram-bot-api (Telegram için)
+wa-automate-nodejs (Whatsapp için)
+
 ### Client'i Çalıştırma
+```
+node Whatsapp/main.js
+node Discord/main.js
+node Telegram/main.js
+```
 
 # Kullanıma Başlarken
 
