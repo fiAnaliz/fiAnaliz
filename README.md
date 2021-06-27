@@ -29,6 +29,14 @@
         <li><a href="#data-policy">Data Policy</a></li>
       </ul>
     </li>
+        <li>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#whatsapp">Whatsapp</a></li>
+        <li><a href="#telegram">Telegram</a></li>
+        <li><a href="#discord">Discord</a></li>
+      </ul>
+    </li>
     <li>
       <a href="#usage">Usage</a>
       <ul>
@@ -43,11 +51,11 @@
 </details>
 
 
-## About
+# About
 
 fiAnaliz can work synchronously across multiple platforms and allows people to learn about financial markets for free. fiAnaliz can operate on the three messaging and communication platforms with the highest number of users in Turkey.
 
-### Data Policy
+## Data Policy
 
 As the fiAnaliz team, we respect your privacy rights and strive to ensure this while you are using our bots. The explanations regarding the security of your personal information are explained below and presented for your information:
 
@@ -118,7 +126,7 @@ You can learn the commands you can use with a private message or by typing !yard
     <img src="images/yardim.png" alt="Help">
 </p>
 
-### Whatsapp
+## Whatsapp
 
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
@@ -126,7 +134,7 @@ You can learn the commands you can use with a private message or by typing !yard
   </a>
 </p>
 
-### Telegram
+## Telegram
 
 <p align="center">
   <a href="https://t.me/fiAnalizBot">
@@ -134,7 +142,7 @@ You can learn the commands you can use with a private message or by typing !yard
   </a>
 </p>
 
-### Discord
+## Discord
 
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">
@@ -142,13 +150,13 @@ You can learn the commands you can use with a private message or by typing !yard
   </a>
 </p>
 
-## System Diagram
+# System Diagram
 
 <p align="center">
   <img src="images/system-diagram.png" alt="System Diagram" width="1000">
 </p>
 
-## Contact
+# Contact
 
 İbrahim Enes Duran - Istanbul Technical University - [LinkedIn](https://linkedin.com/in/ibrahimenesduran)\
 Mesut Melih Akpınar - Bogazici University - [LinkedIn](https://www.linkedin.com/in/melihakpinar)  
