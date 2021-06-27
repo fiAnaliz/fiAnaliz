@@ -63,10 +63,10 @@ fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 # Kurulum
 ## Sunucu Kurulumu
 ### Öngereklilikler:
-Python
+python3
 Flask
 PyMySQL
-Requests
+requests
 Pandas
 mplfinance
 
@@ -81,8 +81,12 @@ mysql -h server_adi -u kullanici_adi -p sifre fiAnaliz < mysql/configure_databas
 Alarm fonksiyonunu kullanmak için alert_module ve backend_api_service'in çalışması gereklidir, grafik çizme ve cüzdan fonksiyonları da backend_api_service'e bağlıdır.
 Bu iki koddaki Database sınıfının altındaki host, user, password ve db değişkenlerine veritabanını bilgilerinizle değiştirdikten sonra scriptleri iki ayrı terminalde çalıştırın.
 
+```
 python3 alert_module.py
 python3 backend_api_service.py
+```
+
+### Client'i Çalıştırma
 
 # Kullanıma Başlarken
 
