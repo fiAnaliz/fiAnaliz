@@ -34,19 +34,15 @@
       <ul>
         <li><a href="#data-policy">Server</a></li>
           <ul>
-            <li>Prerequisities</li>
-            <li>Database Configuration</li>
-            <li>Running the server</li>
+            <li><a>Prerequisities</a></li>
+            <li><a>Database Configuration</a></li>
+            <li><a>Running the server</a></li>
           </ul>
         <li><a href="#data-policy">Client</a></li>
-      </ul>
-    </li>
-        <li>
-      <a href="#usage">Usage</a>
-      <ul>
-        <li><a href="#whatsapp">Whatsapp</a></li>
-        <li><a href="#telegram">Telegram</a></li>
-        <li><a href="#discord">Discord</a></li>
+            <ul>
+            <li><a>Prerequisities</a></li>
+            <li><a>Running the client</a></li>
+          </ul>
       </ul>
     </li>
     <li>
