@@ -44,11 +44,11 @@
 </details>
 
 
-## fiAnaliz Hakkında
+# fiAnaliz Hakkında
 
 fiAnaliz, birden fazla platform üzerinden senkron bir şekilde çalışabilir ve insanların ücretsiz bir şekilde finansal piyasalar hakkında bilgi edinmesini sağlar. fiAnaliz, Türkiye'de en fazla kullanıcıya sahip üç mesajlaşma ve haberleşme platformu üzerinden kişi kısıtlaması olmaksızın çalışabilmektedir.
 
-### Veri Politikamız
+## Veri Politikamız
 
 fiAnaliz ekibi olarak kişisel gizlilik haklarınıza saygı duyuyor ve botlarımızı kullandığınız süre zarfında bunu sağlamak için çaba sarf ediyoruz. Kişisel bilgilerinizin güvenliği ile ilgili açıklamalar aşağıda açıklanmış ve bilginize sunulmuştur.
 
@@ -119,7 +119,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
     <img src="images/yardim.png" alt="Yardım">
 </p>
 
-### Whatsapp
+## Whatsapp
 
 <p align="center">
   <a href="https://api.whatsapp.com/send/?phone=16053157748&text=!yardim">
@@ -127,7 +127,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
   </a>
 </p>
 
-### Telegram
+## Telegram
 
 <p align="center">
   <a href="https://t.me/fiAnalizBot">
@@ -135,7 +135,7 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
   </a>
 </p>
 
-### Discord
+## Discord
 
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=844210790512984096&scope=bot&permissions=8">
@@ -143,17 +143,17 @@ fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet 
   </a>
 </p>
 
-## Sistem Diyagramı
+# Sistem Diyagramı
 
 <p align="center">
   <img src="images/system-diagram.png" alt="Sistem Diyagramı" width="1000">
 </p>
 
-## Lisans
+# Lisans
 
 MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için "LICENSE" bölümüne bakın.
 
-## İletişim
+# İletişim
 
 İbrahim Enes Duran - İstanbul Teknik Üniversiesi - [LinkedIn](https://linkedin.com/in/ibrahimenesduran)\
 Mesut Melih Akpınar - Boğaziçi Üniversitesi - [LinkedIn](https://www.linkedin.com/in/melihakpinar)  
