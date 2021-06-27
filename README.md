@@ -59,6 +59,48 @@ Your usernames and phone numbers are stored in our databases with AES 256-bit en
 
 fiAnaliz team works for the security and privacy of your data.
 
+# Installation/Configuration
+## Server
+### Prerequisities:
+* python3
+* Flask
+* PyMySQL
+* requests
+* Pandas
+* mplfinance
+
+### Database Configuration
+```
+git clone https://github.com/fiAnaliz/fiAnaliz.git
+cd fiAnaliz/src
+mysql -h server_name -u user_name -p password fiAnaliz < mysql/configure_database.sql
+```
+
+### Running the server
+Alarm fonksiyonunu kullanmak için alert_module ve backend_api_service'in çalışması gereklidir, grafik çizme ve cüzdan fonksiyonları da backend_api_service'e bağlıdır.
+Bu iki koddaki Database sınıfının altındaki host, user, password ve db değişkenlerine veritabanını bilgilerinizle değiştirdikten sonra scriptleri iki ayrı terminalde çalıştırın.
+
+```
+python3 alert_module.py
+python3 backend_api_service.py
+```
+
+## Client
+### Prerequisities
+* Node.js
+* Moment.js
+* Express
+* Discord.js (for Discord)
+* node-telegram-bot-api (for Telegram)
+* wa-automate-nodejs (for Whatsapp)
+
+### Running the client
+```
+node Whatsapp/main.js
+node Discord/main.js
+node Telegram/main.js
+```
+
 ## Usage
 
 On which platform you want to use fiAnaliz, you can start using the invitation links below.
