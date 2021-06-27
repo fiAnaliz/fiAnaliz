@@ -77,8 +77,8 @@ mysql -h server_name -u user_name -p password fiAnaliz < mysql/configure_databas
 ```
 
 ### Running the server
-Alarm fonksiyonunu kullanmak için alert_module ve backend_api_service'in çalışması gereklidir, grafik çizme ve cüzdan fonksiyonları da backend_api_service'e bağlıdır.
-Bu iki koddaki Database sınıfının altındaki host, user, password ve db değişkenlerine veritabanını bilgilerinizle değiştirdikten sonra scriptleri iki ayrı terminalde çalıştırın.
+To use the alarm function, alert_module and backend_api_service are required. Graphing and wallet functions also depend on backend_api_service.
+After changing the host, user, password and db variables under the Database class in these two codes, run the scripts in two separate terminals.
 
 ```
 python3 alert_module.py
@@ -101,7 +101,7 @@ node Discord/main.js
 node Telegram/main.js
 ```
 
-## Usage
+# Usage
 
 On which platform you want to use fiAnaliz, you can start using the invitation links below.
 <p align="center">
