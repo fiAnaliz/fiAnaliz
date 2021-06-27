@@ -32,13 +32,13 @@
     <li>
       <a href="#installationconfiguration">Installation/Configuration</a>
       <ul>
-        <li><a href="#data-policy">Server</a></li>
+        <li><a href="#server">Server</a></li>
           <ul>
             <li><a href="#prerequisities">Prerequisities</a></li>
             <li><a href="#database-configuration">Database Configuration</a></li>
             <li><a href="#running-the-server">Running the server</a></li>
           </ul>
-        <li><a href="#data-policy">Client</a></li>
+        <li><a href="#client">Client</a></li>
             <ul>
             <li><a href="#prerequisities-1">Prerequisities</a></li>
             <li><a href="#running-the-client">Running the client</a></li>
