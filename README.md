@@ -29,6 +29,12 @@
         <li><a href="#data-policy">Data Policy</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#installation/configuration">Installation/Configuration</a>
+      <ul>
+        <li><a href="#data-policy">Data Policy</a></li>
+      </ul>
+    </li>
         <li>
       <a href="#usage">Usage</a>
       <ul>
