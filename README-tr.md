@@ -30,7 +30,6 @@
       </ul>
     </li>
     <li>
-    <li>
       <a href="#kurulum">Kurulum</a>
       <ul>
         <li><a href="#sunucu-kurulumu">Sunucu Kurulumu</a></li>
