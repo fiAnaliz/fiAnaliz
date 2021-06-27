@@ -44,7 +44,8 @@
             <li><a href="#clienti-çalıştırma">Client'i Çalıştırma</a></li>
           </ul>
       </ul>
-    </li>  
+    </li>
+    <li>
       <a href="#kullanıma-başlarken">Kullanıma Başlarken</a>
       <ul>
         <li><a href="#whatsapp">Whatsapp</a></li>
