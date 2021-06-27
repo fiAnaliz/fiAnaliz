@@ -60,7 +60,29 @@ Numaralarınız cüzdan ve alarm sistemlerimizin kullanımı için veri tabanlar
 
 fiAnaliz ekibi verilerinizin güvenliği ve gizliliği için çalışmaktadır.
 
-## Kullanıma Başlarken
+### Kurulum
+## Sunucu Kurulumu
+# Öngereklilikler:
+Python
+Flask
+PyMySQL
+Requests
+Pandas
+mplfinance
+
+# Veritabanı Oluşturma
+git clone https://github.com/fiAnaliz/fiAnaliz.git
+cd fiAnaliz/src
+mysql -h server_adi -u kullanici_adi -p sifre fiAnaliz < mysql/configure_database.sql
+
+# Sunucuyu Çalıştırma
+Alarm fonksiyonunu kullanmak için alert_module ve backend_api_service'in çalışması gereklidir, grafik çizme ve cüzdan fonksiyonları da backend_api_service'e bağlıdır.
+Bu iki koddaki Database sınıfının altındaki host, user, password ve db değişkenlerine veritabanını bilgilerinizle değiştirdikten sonra scriptleri iki ayrı terminalde çalıştırın.
+
+python3 alert_module.py
+python3 backend_api_service.py
+
+### Kullanıma Başlarken
 
 fiAnaliz'i hangi platform üzerinden kullanmak istiyorsanız aşağıdaki davet linkleriyle kullanmaya başlayabilirsiniz.
 <p align="center">
