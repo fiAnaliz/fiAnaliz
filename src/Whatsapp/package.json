@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.5.1",
+    "axios": "^0.21.1",
+    "cheerio": "*",
+    "fs": "*",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5",
+    "numeral": "^2.0.6"
+  }
+}

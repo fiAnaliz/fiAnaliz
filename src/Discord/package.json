@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "*",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5",
+    "numeral": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}

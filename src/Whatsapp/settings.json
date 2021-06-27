@@ -1,0 +1,9 @@
+{
+    "prefix": "",
+    "AES": ["32 Characters", "16 Characters"],
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": "",
+    "finnhubIO": ""
+  }
