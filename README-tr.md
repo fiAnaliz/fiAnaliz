@@ -34,8 +34,8 @@
       <ul>
         <li><a href="#sunucu-kurulumu">Sunucu Kurulumu</a></li>
           <ul>
-            <li><a href="#öngereklililkler">Öngereklilikler</a></li>
-            <li><a href="#veritabanı-kurulumu">Veritabanı Kurulumu</a></li>
+            <li><a href="#öngereklilikler">Öngereklilikler</a></li>
+            <li><a href="#veritabanı-oluşturma">Veritabanı Oluşturma</a></li>
             <li><a href="#sunucuyu-çalıştırma">Sunucuyu Çalıştırma</a></li>
           </ul>
         <li><a href="#client-kurulumu">Client Kurulumu</a></li>
