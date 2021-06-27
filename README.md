@@ -30,9 +30,15 @@
       </ul>
     </li>
     <li>
-      <a href="#installation/configuration">Installation/Configuration</a>
+      <a href="#installationconfiguration">Installation/Configuration</a>
       <ul>
-        <li><a href="#data-policy">Data Policy</a></li>
+        <li><a href="#data-policy">Server</a></li>
+          <ul>
+            <li>Prerequisities</li>
+            <li>Database Configuration</li>
+            <li>Running the server</li>
+          </ul>
+        <li><a href="#data-policy">Client</a></li>
       </ul>
     </li>
         <li>
@@ -75,7 +81,7 @@ fiAnaliz team works for the security and privacy of your data.
 
 # Installation/Configuration
 ## Server
-### Prerequisities:
+### Prerequisities
 * python3
 * Flask
 * PyMySQL
