@@ -2,6 +2,10 @@ const settings = require('./settings.json');
 const Config = require('./Config.json');
 const price = require('./util/functions/getPrice');
 const log = require('./util/functions/log')
+const crypto = require('./util/functions/encrypt');
+const express = require( 'express' );
+const app = express();
+const util = require('util');
 const wa = require('@open-wa/wa-automate');
 const fs = require('fs');
 const moment = require('moment');
@@ -63,5 +67,22 @@ function start(client) {
             cmd.run(client, message, params);
         }
     })
+    
+    app.use( express.json() );
+
+    app.post( '/', ( req, res ) => {
+        console.log( 'received webhook', req.body );
+        if(req.body.crypto == 1){
+            client.sendTextWithMentions(crypto.decrypt(req.body.toNumber), util.format(req.body.message.toString(),crypto.decrypt(req.body.fromNumber)))
+        }else if(req.body.crypto == 0){
+            client.sendText(req.body.toNumber, req.body.message.toString())
+        }
+
+        res.sendStatus( 200 );
+    } );
+
+    app.listen( 9000, () => console.log( 'Node.js server started on port 9000.' ) );
+
 }
+
 
