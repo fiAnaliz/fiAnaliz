@@ -22,5 +22,5 @@ exports.decrypt = function decrypt(text) {
    
     decrypted = Buffer.concat([decrypted, decipher.final()]);
 
-    return decrypted.toString().substring(2);
+    return decrypted.toString();
 }
