@@ -70,7 +70,6 @@ class chart(Resource):
     @chart_api.response(200, "Success")
     @chart_api.response(400, "Bad Request or Invalid Argument")
     @chart_api.response(500, "Server Error! Contact the admin!")
-
     def get(self):
         parser = reqparse.RequestParser()
         parser.add_argument('stock', type=str, required=True)
@@ -104,7 +103,7 @@ class chart(Resource):
             stock_df = stock_df.rename(columns={"close": "Close", "date": "Date", "high": "High", "low": "Low", "open": "Open", "volume": "Volume"})
             stock_df = stock_df[["Date", "Open", "High", "Low", "Close", "Volume"]]
 
-            for i in range(0,len(stock_df)):
+            for i in range(len(stock_df)):
                 stock_df["Date"][i] = datetime.datetime.fromtimestamp(int(str(stock_df["Date"][i])[:-3])) # %H:%M:%S.strftime('%Y-%m-%d')
 
             stock_df['Volume'] = stock_df['Volume']
@@ -126,7 +125,7 @@ class chart(Resource):
             data = data.json()
             stock_df = pd.DataFrame(data= data, columns=["Date", "Open", "High", "Low", "Close"])
 
-            for i in range(0,len(stock_df)):
+            for i in range(len(stock_df)):
                 stock_df["Date"][i] = datetime.datetime.fromtimestamp(int(str(stock_df["Date"][i])[:-3])) # %H:%M:%S.strftime('%Y-%m-%d')
 
             stock_df = stock_df.set_index('Date')
@@ -150,7 +149,7 @@ class chart(Resource):
             stock_df = stock_df.rename(columns={"c": "Close", "t": "Date", "h": "High", "l": "Low", "o": "Open", "v": "Volume"})
             stock_df = stock_df[["Date", "Open", "High", "Low", "Close", "Volume"]]
 
-            for i in range(0,len(stock_df)):
+            for i in range(len(stock_df)):
                 stock_df["Date"][i] = datetime.datetime.fromtimestamp(int(str(stock_df["Date"][i]))) # %H:%M:%S.strftime('%Y-%m-%d')
             stock_df = stock_df.set_index('Date')
 
@@ -368,7 +367,6 @@ class walletGet(Resource):
     @wallets_api.response(200, "Success")
     @wallets_api.response(400, "Bad Request or Invalid Argument")
     @wallets_api.response(500, "Server Error! Contact the admin!")
-
     def get(self):
         parser = reqparse.RequestParser()
         parser.add_argument('userID', type=str, required=True)
@@ -440,27 +438,27 @@ class walletGet(Resource):
                     requestData = requests.get('https://api.coingecko.com/api/v3/simple/price?ids={}&vs_currencies=usd,try'.format(coins[:-1])).json()
                     for coin in coinID:
                         prices.append({'coinID': coin , 'type': 0, 'amount': wallets['coin'][coin], 'usd': requestData[coin]['usd'] * wallets['coin'][coin], 'try': requestData[coin]['try'] * wallets['coin'][coin]})
-                        totalTRY = totalTRY + requestData[coin]['try'] * wallets['coin'][coin]
-                        totalUSD = totalUSD + requestData[coin]['usd'] * wallets['coin'][coin]
+                        totalTRY += requestData[coin]['try'] * wallets['coin'][coin]
+                        totalUSD += requestData[coin]['usd'] * wallets['coin'][coin]
             if len(wallets['bist']) != 0:
                 for codeBIST in wallets['bist'].keys():
                     data = requests.get("https://web-paragaranti-pubsub.foreks.com/web-services/historical-data?userName=undefined&name={}&exchange=BIST&market=E&group=F&last=300&period=1440&intraPeriod=null&isLast=false&from={}000000&to={}235900".format(codeBIST, lastday, today))
                     data = data.json()['dataSet'][-1]
                     prices.append({'coinID': codeBIST, 'type': 1, 'amount': wallets['bist'][codeBIST], 'usd': data['close'] * wallets['bist'][codeBIST] / dollarPrice, 'try': data['close'] * wallets['bist'][codeBIST]})
-                    totalTRY = totalTRY + data['close'] * wallets['bist'][codeBIST]
-                    totalUSD = totalUSD + data['close'] * wallets['bist'][codeBIST] / dollarPrice
+                    totalTRY += data['close'] * wallets['bist'][codeBIST]
+                    totalUSD += data['close'] * wallets['bist'][codeBIST] / dollarPrice
             prices = sorted(prices, key=lambda k: k['try'], reverse=True)
             walletP = {'userID': wallet_id,
                 'amount': len(wallets['coin']) + len(wallets['bist']),
                 'prices': prices,
                 'totals': {'try': totalTRY,
                             'usd': totalUSD}
-            } 
+            }
             return jsonify({"statusCode": 200, 'message': walletP})
         except Exception as E:
             connect()
             print(E)
-            return jsonify({"statusCode": 400, "message": "Hata tespit edildi"})
+            return jsonify({'statusCode': 400, 'message': 'Hata tespit edildi'})
         
 @wallets_api.route("/update")
 class walletUpdate(Resource):
@@ -468,7 +466,6 @@ class walletUpdate(Resource):
     @wallets_api.response(200, "Success")
     @wallets_api.response(400, "Bad Request or Invalid Argument")
     @wallets_api.response(500, "Server Error! Contact the admin!")
-
     def get(self):
         parser = reqparse.RequestParser()
         parser.add_argument('userID', type=str, required=True)
@@ -519,7 +516,7 @@ class walletUpdate(Resource):
             wallets = json.loads(wallet[0]['wallet'])
             if typeX == 0:
                 typeA = 'coin'
-            if typeX == 1:
+            elif typeX == 1:
                 typeA = 'bist'
             print('A')
             if buy == 0:
@@ -564,7 +561,7 @@ class walletUpdate(Resource):
         except Exception as E:
             connect()
             print(E)
-            return jsonify({"statusCode": 400, "message": "Hata tespit edildi"})
+            return jsonify({'statusCode': 400, 'message': 'Hata tespit edildi'})
 
 if __name__ == '__main__':
     app.config['JSON_AS_ASCII'] = False
