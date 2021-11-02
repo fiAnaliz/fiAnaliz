@@ -31,15 +31,6 @@ class Database:
     db = ""
     charset = "utf8mb4"
 
-
-"""
-Namespaces
-"""
-chart_api = api.namespace("chart", description="This method get financial chart.")
-alert_api = api.namespace("alert", description="This method set/get/dell alert.")
-wallets_api = api.namespace("wallets", description="This method get/update wallets")
-
-
 """
 Functions
 """
