@@ -23,10 +23,10 @@ app.config['JSON_SORT_KEYS'] = False
 Database Connection
 """
 class Database:
-    host = "212.64.215.223"
-    user = "backendAPI"
-    password = "i4/m06tbNmOd!@*9"
-    db = "fiAnaliz"
+    host = ""
+    user = ""
+    password = ""
+    db = ""
     charset = "utf8mb4"
 
 """
